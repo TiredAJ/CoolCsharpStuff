@@ -3,7 +3,7 @@
 Click *File > Clone Repository* from the menu bar, then select "URL" in the dialog that pops up:
 ![[Pasted image 20231121225140.png | 500]]
 
-In the URL box, enter `https://github.com/TiredAJ/CsharpTips` (unless it changes, it shouldn't), then click "Choose..." next to the "Repository path" box and navigate to where your vault is located. 
+In the URL box, enter `https://github.com/TiredAJ/CoolCsharpStuff` (unless it changes, it shouldn't), then click "Choose..." next to the "Repository path" box and navigate to where your vault is located. 
 
 > [!info]
 If you don't know where your vault is stored, you can RMB on any folder/file in your vault in Obsidian and click "Show in system explorer":
