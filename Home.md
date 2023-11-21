@@ -33,7 +33,8 @@
 │             └─[[Var]]
 │
 ├───**Misc**
-│		 └─[[Recommended Extensions]]
+│       ├─[[Clone into Obsidian Vault]]
+│       └─[[Recommended Extensions]]
 │
 └───**Visual Studio**
 		├─[[Inline Hints]]

@@ -16,4 +16,10 @@ Once you've selected the folder in your vault you want the repo to be cloned int
 Now it should show up in your vault:
 ![[Pasted image 20231121230058.png]]
 
-As an added bonus, 
+As an added bonus, you can update the folder when the repo updates by clicking "Fetch origin"...
+![[Pasted image 20231121230211.png]]
+
+...then clicking again "Pull origin"
+![[Pasted image 20231121230228.png]]
+
+[Return to Home](Home)
