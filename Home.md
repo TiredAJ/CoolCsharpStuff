@@ -11,7 +11,7 @@
 │      │   ├─[[NuGet]]
 │      │   ├─[[Properties]]
 │      │   ├─[[Regions & XML Comments]]
-│      │   ├─[[String Interpolation]]
+│      │   └─[[String Interpolation]]
 │      │
 │      ├───**Collections**
 │      │       └─[[Dictionaries]]
