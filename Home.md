@@ -25,6 +25,10 @@
 │      │       ├─[[ToDictionary()]]
 │      │       └─[[Where()]]
 │      │
+│      ├───**Statements & Patterns**
+│      │       ├─[[Switch]]
+│      │       └─[[Ternary Operator]]
+│      │
 │      ├───**Types**
 │      │       ├─[[Enums]]
 │      │       └─[[Tuples]]
