@@ -29,6 +29,9 @@
 │      │       ├─[[Switch]]
 │      │       └─[[Ternary Operator]]
 │      │
+│      ├───**Threading, Parallelism & Async**
+│      │       └─[[Interlocked]]
+│      │
 │      ├───**Types**
 │      │       ├─[[Enums]]
 │      │       └─[[Tuples]]
