@@ -9,22 +9,17 @@ List<Item> OnlyItems = ShoppingBasket.DistinctBy(X => X.Name).ToList();
 
 Which gives us:
 ```
-Dairy Milk - 360g       £3.50
-Tesco Finest Sea Salt & Chardonnay Vinegar Crisps 150G  £1.35
-2 Custard Slices        £1.65
-Stockwell & co Custard 385g     £0.58
-Stockwell & co Custard 385g     £0.58
-Stockwell & co Rice Pudding 400g        £0.25
-Stockwell & co Rice Pudding 400g        £0.25
-Tesco Paracetamol 500mg 16 pack £0.39
-Tesco Shower Gel 300ml  £0.35
-Tesco Malt Wheats Cereal 750g   £0.95
-Tesco Malt Wheats Cereal 750g   £0.95
-Tesco Malt Wheats Cereal 750g   £0.95
-2 Garlic Baguettes 338g £0.89
-4 battered white fish fillets 400g      £2.00
-4 battered white fish fillets 400g      £2.00
-Tesco Crinkle Cut oven chips 1.5Kg      £2.50
+Dairy Milk - 360g	£3.50
+Tesco Finest Sea Salt & Chardonnay Vinegar Crisps 150G	£1.35
+2 Custard Slices	£1.65
+Stockwell & co Custard 385g	£0.58
+Stockwell & co Rice Pudding 400g	£0.58
+Tesco Paracetamol 500g 16 pack	£0.39
+Tesco Shower Gel 300ml	£0.35
+Tesco Malt Wheats Cereal 750g	£0.95
+2 Garlic Baguettes 338g	£0.89
+4 battered white fish fillets 400g	£2.00
+Tesco Crinkle Cut oven chips 1.5kg	£2.50
 ```
 Devoid of duplicates.
 
