@@ -88,7 +88,7 @@ public class DataReport
 		set 
 		{
 			if (!double.TryParse(value, out _Temperature))
-			{Console.WriteLine("Value is not a vlaid double!");}
+			{Console.WriteLine("Value is not a valid double!");}
 		}
 	}
 }
